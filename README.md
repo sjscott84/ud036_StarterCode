@@ -1,2 +1,3 @@
 # ud036_StarterCode
-Source code for a Movie Trailer website.
+## To Run
+For repository to local machine
